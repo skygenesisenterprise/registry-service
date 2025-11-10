@@ -492,6 +492,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+<div align="center">
+
 **Sky Genesis Enterprise Package Registry** - Modern package management for enterprise ecosystems.
 
 Built with ❤️ by the Sky Genesis Enterprise team
+
+</div>
